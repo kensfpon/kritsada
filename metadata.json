@@ -1,0 +1,5 @@
+{
+  "name": "Automation Tracking Dashboard",
+  "description": "Interactive dashboard for Manpower Tracking, Project Tracking, and Master Plan with Excel export.",
+  "requestFramePermissions": []
+}
